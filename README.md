@@ -1,6 +1,4 @@
-## Hi there 👋
-
-![raul-crr](cooltext467801970287495.gif)
+## ![raul-crr](cooltext467801970287495.gif)
 
 <!--
 **raul-crr/raul-crr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
