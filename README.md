@@ -5,3 +5,4 @@
 - 🎓 **estudante de ADS**  
 - 🛠️ **html, css, python, jscript, php**
 - 😊 **ele/dele**
+- 📍 **salto/sp**
