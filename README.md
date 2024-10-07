@@ -2,6 +2,6 @@
 
 ### ☁️🌈🐬 oi, sou o raul. 🐬🌈☁️
 
-🎓 **estudante de ADS**  
-🛠️ **html, css, python, jscript, php**
-😊 **ele/dele**
+- 🎓 **estudante de ADS**  
+- 🛠️ **html, css, python, jscript, php**
+- 😊 **ele/dele**
